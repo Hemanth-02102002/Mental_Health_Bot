@@ -13,6 +13,6 @@ ensuring that the rewards are meaningful and motivating for each individual user
 (https://github.com/Hemanth-02102002/Mental_Health_Bot/blob/main/to%20da.png)
 
 ![A specialized dashboard is created where it tracks the mental well being of the user and visualized as a dashboard of the mental-health and tracks their daily patterns gives some insights and guidelines of to improve the mental well being]
-(Dashboard.png)
+(https://github.com/Hemanth-02102002/Mental_Health_Bot/blob/main/Dashboards.png)
 
 
