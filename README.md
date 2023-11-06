@@ -8,8 +8,11 @@
 2. Increases productivity by helping users focus on the most important tasks and avoid distractions.
 3. Improves time management skills by providing a clear roadmap for the day's activities.]
 
-![Displays the to-do status and the platform offers personalized rewards based on user preferences and interests, ensuring that the rewards are meaningful and motivating for each individual user.](toda.png)
+![Displays the to-do status and the platform offers personalized rewards based on user preferences and interests, 
+ensuring that the rewards are meaningful and motivating for each individual user.] 
+(toda.png)
 
-![A specialized dashboard is created where it tracks the mental well being of the user and visualized as a dashboard of the mental-health and tracks their daily patterns gives some insights and guidelines of to improve the mental well being](Dashboard.png)
+![A specialized dashboard is created where it tracks the mental well being of the user and visualized as a dashboard of the mental-health and tracks their daily patterns gives some insights and guidelines of to improve the mental well being]
+(Dashboard.png)
 
 
